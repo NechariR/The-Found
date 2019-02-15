@@ -1,11 +1,19 @@
-# Mozilla Open Leaders 7
+# The Found - A Maternal Health Project
 
-Welcome! This is the [Mozilla Open Leaders 7](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/) (OL7) program repository. This repository will be used for the issue tracker. All the projects going through OL7 will use an issue to keep track of progress during the program.
+Welcome! This project is a part of the [Mozilla Open Leaders 7](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/) (OL7) program. This document, called a "Read Me" file, will provide more information about the project and ways that you can contribute to it.
 
-## How to Work With Us
+## What's this all about?
 
-Each issue is a project currently going through OL7. Find out more about each project how you can get involved in the individual issues.
+As a public health technologist, I'm dedicated to mitigating barriers to maternal health that are informative, engaging, and empowering to the communities I serve. I've conducted maternal health outreach by developing infographics, writing blog posts, and conducting advocacy within communities. My goal is to create an open network of digital maternal health resources to allow communities to self-organize resources in order to develop their own maternal health initiatives.
 
-## Participation Guidelines
+## How can you help?
 
-Mozilla Open Leaders adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to leadopen@mozillafoundation.org.
+Please remember that YOU are the expert! We need your help in many ways: content development, feedback, documentation, and eventually software development.
+
+The primary goal is to support women during one of the most vulnerable times of their lives by engaging and sharing information. If you are looking to learn more about open source projects, seeking to gain more information about maternal health, or just have a general interest in working collaboratively, I am here to help.
+
+## Who can I contact>
+If you want to report a problem or suggest an enhancement I'd love for you to open an issue or contact me on Twitter @necharism.
+
+## Thank You
+Without you, this project would not succeed so I wanted to thank all contributors who are helping to make maternal healthcare more equitable.
