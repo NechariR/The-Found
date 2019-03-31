@@ -10,7 +10,7 @@ As a public health technologist, I'm dedicated to mitigating barriers to materna
 
 Please remember that YOU are the expert! We need your help in many ways: content development, feedback, documentation, and eventually software development.
 
-The primary goal is to support women during one of the most vulnerable times of their lives by engaging and sharing information. If you are looking to learn more about open source projects, seeking to gain more information about maternal health, or just have a general interest in working collaboratively, I am here to help.
+The primary goal of this project is to identify the reproductive needs of women in order to improve maternal health outcomes. As an open science project, we seek to create a digital repository of engaging and useful information. If you are looking to learn more about open source projects, seeking to gain more information about maternal health, or just have a general interest in working collaboratively, I am here to help.
 
 ## Who can I contact?
 If you want to report a problem or suggest an enhancement I'd love for you to open an issue or contact me on Twitter @necharism.
