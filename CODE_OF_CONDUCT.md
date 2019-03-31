@@ -1,7 +1,7 @@
-<!--- MOZFEST PARTICIPATION GUIDLINES --->
+<!--- THE FOUND PARTICIPATION GUIDLINES --->
 # Participation Guidelines
 
-Mozilla Open Leaders respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, mentors, experts, staff, volunteers, and anyone else involved in making Mozilla Open Leaders possible.
+The Found follows Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, mentors, experts, staff, volunteers, and anyone else involved in making the Mozilla Open Leaders project possible.
 
 ## How to treat each other
 
@@ -14,16 +14,16 @@ Mozilla Open Leaders respects Mozilla's [community participation guidelines](htt
 
 ## Inclusion and Diversity
 
-The Mozilla Project welcomes and encourages participation by everyone. It doesn’t matter how you identify yourself or how others perceive you: we welcome you.
+The Found welcomes and encourages participation by everyone. It doesn’t matter how you identify yourself or how others perceive you: we welcome you.
 
 We welcome contributions from everyone as long as they interact constructively with our community, including, but not limited to people of varied age, culture, ethnicity, gender, gender-identity, language, race, sexual orientation, geographical location and religious views.
 
-Mozilla-based activities should be inclusive and should support such diversity.
+This project's activities are inclusive and support such diversity.
 
 ## Raising Issues
 
-If you believe you‘re experiencing practices which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact the Mozilla Open Leaders organizers, Abigail Cabunoc Mayes or Chad Sansing.
+If you believe you‘re experiencing practices which don‘t meet the above policies, or if you feel you are being harassed in any way, please immediately contact Nechari @necharism on Twitter.
 
-Mozilla Open Leaders  organisers reserve the right to refuse admission to anyone violating these policies, and/or take further action including expulsion from the program.
-Email: leadopen@mozillafoundation.org
-<!--- END MOZFEST PARTICIPATION GUIDLINES --->
+The project's organizer reserves the right to refuse admission to anyone violating these policies, and/or take further action including expulsion from the program.
+
+<!--- END THE FOUND PARTICIPATION GUIDLINES --->
